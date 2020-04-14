@@ -59,7 +59,7 @@ jobs:
             libgdal-dev \
             libgeos-dev \
             libproj-dev \
-            liblwgeom-dev \
+            liblwgeom-dev
 
       - name: Install dependencies
         run: |
