@@ -9,3 +9,6 @@ hello()
 \description{
 Function
 }
+\examples{
+hello()
+}
