@@ -10,8 +10,10 @@ hello <- function() {
 }
 
 #' Function 2
-#' @importFrom lwgeom st_astext
+#'
 #' @param pt a point
+#'
+#' @importFrom lwgeom st_astext
 #' @export
 #' @examples
 #' bye(hello())
