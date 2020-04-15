@@ -6,6 +6,9 @@
 \usage{
 bye(pt)
 }
+\arguments{
+\item{pt}{a point}
+}
 \description{
 Function 2
 }
